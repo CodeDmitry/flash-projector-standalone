@@ -6,3 +6,5 @@ or https://archive.org/details/standaloneflashplayers
 
 Please use ffdec https://github.com/jindrapetrik/jpexs-decompiler on swf files to inspect them for malware before running them, as they
 do have as much power as any other executable in the wrong hands.
+
+The archived files are for linux, the executables are for windows, see archive for mac version.
