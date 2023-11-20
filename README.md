@@ -1,10 +1,9 @@
 # Flash-Projector-Standalone
-archived flash projector 
+This archive contains the last available flash projector before Adobe took it down. The flash projector is used for playing Adobe Flash .swf files without installation.
 
-see https://web.archive.org/web/20150227183255/http://www.adobe.com/support/flashplayer/downloads.html
-or https://archive.org/details/standaloneflashplayers
+See https://web.archive.org/web/20150227183255/http://www.adobe.com/support/flashplayer/downloads.html
+or https://archive.org/details/standaloneflashplayers for alternative versions.
 
-Please use ffdec https://github.com/jindrapetrik/jpexs-decompiler on swf files to inspect them for malware before running them, as they
-do have as much power as any other executable in the wrong hands.
+<b>IMPORTANT</b>: While most of the FUD campaigning done by Adobe, Apple, Microsoft, and others concerning Flash files was unjustified, .swf files should still be treated like .exe files, and inspected carefully with ffdec for suspicious scripts if obtained from untrusted sources. Please use ffdec tool obtained from https://github.com/jindrapetrik/jpexs-decompiler on swf files to inspect their scripts before running them. My suggestion is to extract the scripts into a directory, search for ".as" files, and sort them by size ascending. Inspect the biggest files first as they are most likely to contain complex code. Briefly scan the other files with varying sizes as well.
 
 The archived files are for linux, the executables are for windows, see other archives/links above for mac version.
