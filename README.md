@@ -1,5 +1,5 @@
 # Flash-Projector-Standalone
-This archive contains the last available flash projector before Adobe took it down. The flash projector is used for playing Adobe Flash .swf files without installation.
+This archive contains the last available flash projector before Adobe took down the download page. The flash projector is used for playing Adobe Flash .swf files without installing Adobe Flash.
 
 See https://web.archive.org/web/20150227183255/http://www.adobe.com/support/flashplayer/downloads.html
 or https://archive.org/details/standaloneflashplayers for alternative versions.
